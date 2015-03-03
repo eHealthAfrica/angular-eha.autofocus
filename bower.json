@@ -1,0 +1,22 @@
+{
+  "name": "angular-eha.autofocus",
+  "description": "An autofocus directive",
+  "version": "0.0.0",
+  "authors": [
+    "oss@ehealthafrica.org"
+  ],
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": ["autofocus"," directive"," angularjs"],
+  "main": "dist/angular-eha.autofocus.directive.js",
+  "license": "Apache-2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
