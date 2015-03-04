@@ -1,6 +1,6 @@
 # angular-eha.autofocus
 
-[![Build Status](https://travis-ci.org/eHealthAfrica/angular-eha.autofocus.svg)](https://travis-ci.org/eHealthAfrica/angular-eha.autofocus)
+[![Build Status](https://travis-ci.org/eHealthAfrica/angular-eha.autofocus.svg)](https://travis-ci.org/eHealthAfrica/angular-eha.autofocus) ![Dependecy Status](https://david-dm.org/eHealthAfrica/angular-eha.autofocus.svg) ![Dev Dependecy Status](https://david-dm.org/eHealthAfrica/angular-eha.autofocus/dev-status.svg)
 
 ## Usage
 
