@@ -1,6 +1,6 @@
 # angular-eha.autofocus
 
-[![Build Status](https:/travis-ci.org/eHealthAfrica/angular-eha.autofocus.svg?branch=master)](https://magnum.travis-ci.com/eHealthAfrica/angular-eha.autofocus)
+[![Build Status](https://travis-ci.org/eHealthAfrica/angular-eha.autofocus.svg)](https://travis-ci.org/eHealthAfrica/angular-eha.autofocus)
 
 ## Usage
 
